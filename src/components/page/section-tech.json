@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_section_teches",
+  "info": {
+    "displayName": "sectionTech",
+    "icon": "arrow-alt-circle-right"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "techIcons": {
+      "displayName": "techIcons",
+      "type": "component",
+      "repeatable": true,
+      "component": "page.tech-icons"
+    }
+  }
+}

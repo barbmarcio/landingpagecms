@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_page_pricing_boxes",
+  "info": {
+    "displayName": "pricingBox",
+    "icon": "allergies",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "totalPrice": {
+      "type": "integer"
+    },
+    "benefits": {
+      "type": "richtext"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.button"
+    },
+    "discountPrice": {
+      "type": "integer",
+      "default": 349
+    }
+  }
+}

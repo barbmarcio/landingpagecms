@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_section_reviews",
+  "info": {
+    "displayName": "sectionReviews",
+    "icon": "baby-carriage"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "reviews": {
+      "displayName": "reviews",
+      "type": "component",
+      "repeatable": true,
+      "component": "page.reviews"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_page_concepts",
+  "info": {
+    "displayName": "concepts",
+    "icon": "arrow-alt-circle-left"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}

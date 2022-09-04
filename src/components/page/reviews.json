@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_page_reviews",
+  "info": {
+    "displayName": "reviews",
+    "icon": "ambulance"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    },
+    "photo": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
